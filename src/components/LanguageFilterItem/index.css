@@ -1,0 +1,15 @@
+.item {
+  color: #1e293b;
+  font-family: Roboto;
+  font-size: 15px;
+  border: 1px solid #1e293b;
+  border-radius: 15px;
+  list-style-type: none;
+  background-color: transparent;
+  padding: 7px;
+}
+
+.active {
+  color: #0284c7;
+  border-color: #0284c7;
+}
